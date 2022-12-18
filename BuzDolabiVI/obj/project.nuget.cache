@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h72LFwQ7oNzDIoeDI3FTOru4JSe2SnEwGa1+efh8JnMbvQ8ieXzMqFM1jHFg/tEfdqU/3ZbU2D2D/2au3g49KA==",
+  "dgSpecHash": "/PoPokr9Z/mgr0q9Oz6esM7BA6SoLTDXNGvEfvEA4pmw6j3WzcybkfHrxbTMP19Pq7c8GFAfHv7J1jqKaxk3Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabiVI\\BuzDolabiVI\\BuzDolabiVI.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\BuzDolabiVI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.10\\microsoft.aspnetcore.cryptography.internal.6.0.10.nupkg.sha512",
