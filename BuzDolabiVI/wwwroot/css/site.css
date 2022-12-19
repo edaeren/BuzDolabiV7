@@ -17,3 +17,26 @@ body {
     margin-bottom: 5%;
     background-color: #F9F8EA;
 }
+.cardUstBaslik {
+    padding-top:10px;
+
+}
+
+.cardUstBaslik:hover{
+    color:red;
+}
+
+    .ustuneGelinceBuyusun:hover {
+        height: 70%;
+        width: 26%;
+        margin-left: -1%;
+        margin-right: -1%
+    }
+
+.sayfalarinBasligi{
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+    margin:3% auto;
+}
+

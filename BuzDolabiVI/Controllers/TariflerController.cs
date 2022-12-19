@@ -1,4 +1,5 @@
 ﻿using BuzDolabiVI.Models;
+using BuzDolabiVI.Views.Tarifler;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -27,6 +28,10 @@ namespace BuzDolabiVI.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+        public IActionResult TarifGoster(int id)
+        {
+            return View("Detayli_Tarif", id);
         }
     }
 }

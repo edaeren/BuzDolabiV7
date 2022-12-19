@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7Zq9+8XX/4dWEx584Ls2DwAslQ7JP4cN1wv4caR60Ts=",
+  "Hash": "6X9Z+CPx5BaoM2tkNwBS5aShdV/3W7jrDzZ2cl0KnEM=",
   "Source": "BuzDolabiVI",
   "BasePath": "_content/BuzDolabiVI",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\slider.css"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\wwwroot\\css\\sonYorumlar.css",
+      "SourceId": "BuzDolabiVI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\wwwroot\\",
+      "BasePath": "_content/BuzDolabiVI",
+      "RelativePath": "css/sonYorumlar.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sonYorumlar.css"
     },
     {
       "Identity": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\wwwroot\\favicon.ico",
