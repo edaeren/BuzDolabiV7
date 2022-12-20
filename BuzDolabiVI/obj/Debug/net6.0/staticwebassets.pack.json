@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\wwwroot\\images\\Kestane.jpg",
+      "PackagePath": "staticwebassets\\images\\Kestane.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\wwwroot\\images\\yukariOk.png",
+      "PackagePath": "staticwebassets\\images\\yukariOk.png"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

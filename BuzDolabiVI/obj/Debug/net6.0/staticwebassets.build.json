@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6X9Z+CPx5BaoM2tkNwBS5aShdV/3W7jrDzZ2cl0KnEM=",
+  "Hash": "EQ8DzUkJrQskhasyx2EljSDiDPtlevw8De9IDlzerqQ=",
   "Source": "BuzDolabiVI",
   "BasePath": "_content/BuzDolabiVI",
   "Mode": "Default",
@@ -1154,6 +1154,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\wwwroot\\images\\Kestane.jpg",
+      "SourceId": "BuzDolabiVI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\wwwroot\\",
+      "BasePath": "_content/BuzDolabiVI",
+      "RelativePath": "images/Kestane.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Kestane.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\wwwroot\\images\\yukariOk.png",
+      "SourceId": "BuzDolabiVI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\wwwroot\\",
+      "BasePath": "_content/BuzDolabiVI",
+      "RelativePath": "images/yukariOk.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\yukariOk.png"
     },
     {
       "Identity": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\wwwroot\\js\\site.js",

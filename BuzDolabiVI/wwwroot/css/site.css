@@ -25,18 +25,46 @@ body {
 .cardUstBaslik:hover{
     color:red;
 }
-
+@media only screen and (min-width: 1260px) {
+    /* styles for browsers larger than 960px; */
     .ustuneGelinceBuyusun:hover {
         height: 70%;
         width: 26%;
         margin-left: -1%;
         margin-right: -1%
     }
+}
 
 .sayfalarinBasligi{
     text-align:center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight:bold;
     margin:3% auto;
+}
+.imageHolder {
+    position: relative;
+    text-align: center;
+    color: white;
+    
+}
+.imageBaslik{
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+}
+.tarifBanner {
+    width: 100%;
+    border-radius: 20px;
+    height: 60%;
+    width: 80%;
+}
+.golgelendir {
+    box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
