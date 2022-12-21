@@ -75,4 +75,44 @@ html {
     display: none;
     left:90%;
    }
+.bilgiKutusu {
+    width: 100%;
+    height: auto;
+    margin:1% 0 1% 0;
+    border-style: dashed;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color:darkred;
+    padding:1%;
+    text-align:center;
+
+}
+.buTarifeKacKisiBakti {
+    width: 80%;
+    padding:5%;
+    margin-top:5%;
+    border-radius: 8px;
+    height:auto;
+    box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.buTarifiYazanKisi {
+    width: 80%;
+    padding: 5%;
+    margin-top: 5%;
+    border-radius: 8px;
+    height: auto;
+    box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.genelKutu{
+    width: 90%;
+    padding: 5%;
+    margin:3% auto 0 auto;
+    margin-top: 3%;
+    border-radius: 8px;
+    height: auto;
+    box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+
+}
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hZqR7GHaV3b01S0VhuKkf91Aanv2ip/YcSzkYJYs2OY=",
+  "Hash": "Y2DHXe8dNwtPcDYxznpyY46H8HYRnPkuhuF5+O5Uh1o=",
   "Source": "BuzDolabiVI",
   "BasePath": "_content/BuzDolabiVI",
   "Mode": "Default",
@@ -1122,6 +1122,23 @@
       "OriginalItemSpec": "wwwroot\\css\\slider.css"
     },
     {
+      "Identity": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\css\\sonYorumlar - Kopya (2) - Kopya.css",
+      "SourceId": "BuzDolabiVI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\",
+      "BasePath": "_content/BuzDolabiVI",
+      "RelativePath": "css/sonYorumlar - Kopya (2) - Kopya.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sonYorumlar - Kopya (2) - Kopya.css"
+    },
+    {
       "Identity": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\css\\sonYorumlar - Kopya (2).css",
       "SourceId": "BuzDolabiVI",
       "SourceType": "Discovered",
@@ -1205,6 +1222,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\images\\ingredients.png",
+      "SourceId": "BuzDolabiVI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\",
+      "BasePath": "_content/BuzDolabiVI",
+      "RelativePath": "images/ingredients.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ingredients.png"
+    },
+    {
+      "Identity": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\images\\instructions.png",
+      "SourceId": "BuzDolabiVI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\",
+      "BasePath": "_content/BuzDolabiVI",
+      "RelativePath": "images/instructions.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\instructions.png"
     },
     {
       "Identity": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\images\\Kestane.jpg",
