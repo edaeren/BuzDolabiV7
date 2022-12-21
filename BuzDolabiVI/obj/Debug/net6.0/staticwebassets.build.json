@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y2DHXe8dNwtPcDYxznpyY46H8HYRnPkuhuF5+O5Uh1o=",
+  "Hash": "ItxkW3nUWIC/n4I2+xkUFYrOk4RfKaxkZNcAqEf3aSE=",
   "Source": "BuzDolabiVI",
   "BasePath": "_content/BuzDolabiVI",
   "Mode": "Default",
@@ -1154,6 +1154,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\sonYorumlar - Kopya (2).css"
+    },
+    {
+      "Identity": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\css\\sonYorumlar - Kopya (3) - Kopya.css",
+      "SourceId": "BuzDolabiVI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\",
+      "BasePath": "_content/BuzDolabiVI",
+      "RelativePath": "css/sonYorumlar - Kopya (3) - Kopya.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sonYorumlar - Kopya (3) - Kopya.css"
     },
     {
       "Identity": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\css\\sonYorumlar - Kopya (3).css",
