@@ -2459,11 +2459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\GitHub - Kopya\\BuzDolabi\\BuzDolabiVI\\BuzDolabiVI.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\BuzDolabiVI.csproj",
       "projectName": "BuzDolabiVI",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\GitHub - Kopya\\BuzDolabi\\BuzDolabiVI\\BuzDolabiVI.csproj",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\BuzDolabiVI.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\GitHub - Kopya\\BuzDolabi\\BuzDolabiVI\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
