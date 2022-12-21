@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\slider.css"
     },
     {
+      "Id": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\css\\sonYorumlar - Kopya (2) - Kopya.css",
+      "PackagePath": "staticwebassets\\css\\sonYorumlar - Kopya (2) - Kopya.css"
+    },
+    {
       "Id": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\css\\sonYorumlar - Kopya (2).css",
       "PackagePath": "staticwebassets\\css\\sonYorumlar - Kopya (2).css"
     },
@@ -39,6 +43,14 @@
     {
       "Id": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\images\\Kestane.jpg",
       "PackagePath": "staticwebassets\\images\\Kestane.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\images\\ingredients.png",
+      "PackagePath": "staticwebassets\\images\\ingredients.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\images\\instructions.png",
+      "PackagePath": "staticwebassets\\images\\instructions.png"
     },
     {
       "Id": "C:\\Users\\Acer\\Desktop\\GitHub\\BuzDolabiV7\\BuzDolabiVI\\wwwroot\\images\\yukariOk.png",
