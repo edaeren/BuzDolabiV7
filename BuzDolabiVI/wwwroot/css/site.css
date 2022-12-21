@@ -67,4 +67,12 @@ body {
 html {
     scroll-behavior: smooth;
 }
+#yukari {
+    z-index: 100;
+    position: fixed; 
+    bottom: 10%;
+    right: 10px;
+    display: none;
+    left:90%;
+   }
 
