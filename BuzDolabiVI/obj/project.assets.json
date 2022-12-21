@@ -2460,11 +2460,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\BuzDolabiv7Yedek2\\BuzDolabiV7\\BuzDolabiVI\\BuzDolabiVI.csproj",
       "projectName": "BuzDolabiVI",
       "projectPath": "C:\\Users\\LENOVO\\Desktop\\BuzDolabiv7Yedek2\\BuzDolabiV7\\BuzDolabiVI\\BuzDolabiVI.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\LENOVO\\Desktop\\BuzDolabiv7Yedek2\\BuzDolabiV7\\BuzDolabiVI\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\BuzDolabiVI.csproj",
+      "projectName": "BuzDolabiVI",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\BuzDolabiVI.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LENOVO\\Desktop\\GitHub\\BuzDolabi\\BuzDolabiVI\\obj\\",
+>>>>>>> e083038f95356527e1fb7074e799542967a2428a
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
