@@ -16,59 +16,42 @@
 </head>
 <body>
     <header>
-        <div id="LogoVeGiris" class="bg-primary">
-            <div id="Logo">LOGO</div>
-            <div id="AramaCubugu">ARAMA CUBUGU</div>
-            <div id="KullaniciKismi">  <partial name="_LoginPartial" /></div>
-        </div>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 mt-5" >
-            <div class="container-fluid" id="Nav">
-                <a class="navbar-brand" asp-area="" asp-controller="Tarifler" asp-action="Index">BuzDolabiVI</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                
-                
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Tarifler
-                            </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item" asp-area="" asp-controller="AnaYemek" asp-action="Index">Yemek Tarifleri</a>
-                                <a class="dropdown-item" asp-area="" asp-controller="Corba" asp-action="Index">Çorba Tarifleri</a>
-                                <a class="dropdown-item" asp-area="" asp-controller="Tatli" asp-action="Index">Tatlı Tarifleri</a>
-                                <a class="dropdown-item" asp-area="" asp-controller="Icecek" asp-action="Index">İçecek Tarifleri</a>
-                            </div>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Tarifler" asp-action="Privacy">Privacy</a>
-                        </li>
-                        
-                    </ul>
-                </div>
-            </div>
-        </nav>
+        <partial name="_HeaderPartial" />    
     </header>
     <div class="container" id="Container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
+    <div id="yukari">
+        <a href="#Nav"><img src="~/images/yukariok.png" style="width:30%; height:30%" /></a>
 
-    <footer class="border-top footer text-muted mt-5">
-        <a href="#Nav"><img src="~/images/yukariok.png" style="width:3%; height:3%"/></a>
-        <div class="container">
-            &copy; 2022 - BuzDolabiVI - <a asp-area="" asp-controller="Tarifler" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
+    </div>
+   
+    <partial name="_FooterPartial" />
+   
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script>
-      
+        // Get the button
+        let mybutton = document.getElementById("yukari");
+
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function () { scrollFunction() };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.display = "block";
+            } else {
+                mybutton.style.display = "none";
+            }
+        }
+       document.getElementById("yukari").addEventListener("click", myFunction);
+
+function myFunction() {
+            mybutton.style.display = "none";
+}
     </script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
