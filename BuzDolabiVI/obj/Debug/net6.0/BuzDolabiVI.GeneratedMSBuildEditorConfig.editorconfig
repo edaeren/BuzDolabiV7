@@ -9,76 +9,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BuzDolabiVI
 build_property.RootNamespace = BuzDolabiVI
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\LENOVO\Desktop\BuzDolabiv7Yedek2\BuzDolabiV7\BuzDolabiVI\
-build_property.RazorLangVersion = 6.0
-build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\LENOVO\Desktop\BuzDolabiv7Yedek2\BuzDolabiV7\BuzDolabiVI
-build_property._RazorSourceGeneratorDebug = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Areas/Identity/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/AnaYemek/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hWWVtZWtcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Corba/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29yYmFcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Icecek/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNlY2VrXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Shared/_FooterPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Shared/_HeaderPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Shared/_LoginPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Tarifler/Detayli_Tarif.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyaWZsZXJcRGV0YXlsaV9UYXJpZi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Tarifler/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyaWZsZXJcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Tarifler/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyaWZsZXJcUHJpdmFjeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Tatli/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF0bGlcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Desktop/BuzDolabiv7Yedek2/BuzDolabiV7/BuzDolabiVI/Views/Shared/_Layout.cshtml]
-=======
 build_property.ProjectDir = C:\Users\LENOVO\Desktop\GitHub\BuzDolabi\BuzDolabiVI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
@@ -147,6 +77,5 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/LENOVO/Desktop/GitHub/BuzDolabi/BuzDolabiVI/Views/Shared/_Layout.cshtml]
->>>>>>> e083038f95356527e1fb7074e799542967a2428a
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-igk1ww9n1s
